@@ -18,7 +18,7 @@ Customer churn is a critical metric in the telecom industry. The primary goal of
 
 ---
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 * **Data Cleaning & ETL:** Used **Power Query** to handle missing values, correct data types, and transform raw customer records.
 * **Data Modeling:** Established a clean star-schema / relational model for efficient performance.
 * **DAX Calculations:** Created key measures for analytics:
